@@ -5,7 +5,7 @@ Automatically logs campus meal plan transactions from the CBORD **GET Mobile** p
 
 There is no public API for GET Mobile, so this scrapes the transaction table that's already displayed to the logged-in user and posts it to a Google Apps Script endpoint. Nothing is polled and no credentials are stored — the sync happens when you open the history page yourself.
 
-📄 **[Read the full write-up](ADD_YOUR_SUBSTACK_LINK_HERE)** — why it's built this way, the spreadsheet math, and what the data actually showed.
+📄 **[Read the full write-up](https://peterjjmcardle.substack.com/p/the-spreadsheet-that-keeps-me-from?r=9279a2&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)** — why it's built this way, the spreadsheet math, and what the data actually showed.
 
 ---
 
